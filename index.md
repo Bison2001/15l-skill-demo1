@@ -1,6 +1,7 @@
 # First
 1. ssh into the given account\
-`ssh cs15lwi23amh@ieng6.ucsd.edu`
+`ssh cs15lwi23amh@ieng6.ucsd.edu`\
+`FoYoVuDuVaPeYiF-SuVoJ7DiGuDoKe`
 
 2. memorize the current server:\
 `ieng6-203.ucsd.edu`
@@ -10,6 +11,7 @@
 4. cd to the cloned repo
 
 5. run junit test\
+`https://ucsd-cse15l-w23.github.io/week/week3/`\
 `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`\
 `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore FileServerTests`
 
