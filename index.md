@@ -42,3 +42,6 @@
 14 find 4 files
 `http://ieng6-203:5555/search?q=Bahama`
 
+15. Other reference
+help: grep --help\
+grep: grep ".txt" file > result.txt
