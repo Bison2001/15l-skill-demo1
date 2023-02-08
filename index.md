@@ -6,7 +6,7 @@
 2. memorize the current server:\
 `ieng6-203.ucsd.edu`
 
-3. git clone
+3. `git clone https://github.com/ucsd-cse15l-w23/skill-demo1-server`
 
 4. cd to the cloned repo
 
@@ -17,7 +17,7 @@
 
 6. cd out
 
-7. clone the other repo
+7. `git clone https://github.com/ucsd-cse15l-w23/skill-demo1-data`
 
 8. find how many txt\
 `find ./skill-demo1-data -name "*.txt" > num.txt`\
